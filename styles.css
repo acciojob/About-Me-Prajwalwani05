@@ -1,1 +1,16 @@
+.self .img{
+	position:absolute;
+	left:0;
+}
+.self{
+	display:flex;
+}
+.self .info{
+	position:absolute;
+	right:30%;
+	top:40px;
+}
+.self .info .b{
+	font-weight:bold;
+}
 
